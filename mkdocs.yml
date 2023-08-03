@@ -1,6 +1,7 @@
 site_name: Break It
-site_url: https://pages.gitlab.io/mkdocs
+site_url: https://breakit.thriller.fun
 site_dir: public
+site_author: ThrillerOne
 nav:
   - index.md
   - release_note.md
