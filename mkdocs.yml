@@ -44,7 +44,7 @@ theme:
     code: 'Fira Mono'
 
 plugins:
-  - search:
+  search:
     lang:
       - en
       - zh
