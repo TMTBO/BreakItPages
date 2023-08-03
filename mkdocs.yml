@@ -34,8 +34,7 @@ theme:
   include_search_page: true
   search_index_only: true
   favicon: 'favicon.ico'
-  icon:
-    logo: 'favicon_512x512.png'
+  logo: 'favicon_512x512.png'
   features:
     - navigation.tabs
     - navigation.instant
