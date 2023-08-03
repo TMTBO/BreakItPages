@@ -31,7 +31,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-  include_search_page: false
+  include_search_page: true
   search_index_only: true
   favicon: 'favicon.ico'
   icon:
