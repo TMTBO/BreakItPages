@@ -31,14 +31,14 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-  include_search_page: true
-  search_index_only: true
+  # include_search_page: true
+  # search_index_only: true
   favicon: 'favicon.ico'
-  icon:
-    logo: 'material/school'
-  features:
-    - navigation.tabs
-    - navigation.instant
+  # icon:
+  #   logo: 'material/school'
+  # features:
+  #   - navigation.tabs
+  #   - navigation.instant
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
