@@ -35,7 +35,7 @@ theme:
   search_index_only: true
   favicon: 'favicon.ico'
   icon:
-    logo: 'favicon_512x512.png'
+    logo: 'material/school'
   features:
     - navigation.tabs
     - navigation.instant
@@ -44,10 +44,10 @@ theme:
     code: 'Fira Mono'
 
 plugins:
-  - search
-    # lang:
-    #   - en
-    #   - zh
+  - search:
+    lang:
+      - en
+      - zh
 
 
 # hooks:
