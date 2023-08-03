@@ -35,7 +35,7 @@ theme:
   search_index_only: true
   favicon: 'favicon.ico'
   icon:
-    logo: 'material/school'
+    logo: 'favicon_512x512.png'
   features:
     - navigation.tabs
     - navigation.instant
