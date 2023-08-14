@@ -4,13 +4,13 @@
         <title>BreakIt</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Fri, 11 Aug 2023 17:44:16 +0800</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:43:48 +0800</pubDate>
             <link>https://breakit.thriller.fun</link>
             <sparkle:fullReleaseNotesLink>https://breakit.thriller.fun/release_note/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>7</sparkle:version>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://breakit.thriller.fun/packages/BreakIt.v1.1.0_7.zip" length="3064977" type="application/octet-stream" sparkle:edSignature="BXXgg3m5V41Msr7hjxptJ/mhzc2ksAuLWcDZbranjkg/S1AtGsk9M5abg/v4vTAEsIUKW12D+P8Fsx/nZGGqBQ=="/>
+            <enclosure url="https://breakit.thriller.fun/packages/BreakIt.v1.1.0_8.zip" length="3090448" type="application/octet-stream" sparkle:edSignature="aSAHC9wYY99AvTtAeYoRg0VorAOzfg1b8o6vujcXEiHyD9gUrhhNiV2Mh3akY8ai7wKR0vgOoa86PhTuMkZfCA=="/>
         </item>
     </channel>
 </rss>
