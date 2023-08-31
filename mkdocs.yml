@@ -65,6 +65,7 @@ extra:
 
 extra_javascript:
   - '_static/js/math-csr.js?math-csr'
+  - '_static/js/ad.js'
 
 extra_css:
   - '_static/css/extra.css?v=14'
