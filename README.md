@@ -1,5 +1,6 @@
 # Pages
 
+Based on https://github.com/OI-wiki/OI-wiki/blob/master/mkdocs.yml
 
 
 ## Getting started
