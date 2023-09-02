@@ -69,6 +69,8 @@ extra_javascript:
 
 extra_css:
   - '_static/css/extra.css?v=14'
+extra_templates:
+  - '_statics/html/ad.html'
 
 # Extensions
 markdown_extensions:
