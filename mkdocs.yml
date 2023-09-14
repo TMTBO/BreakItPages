@@ -3,10 +3,10 @@ site_url: https://breakit.thriller.fun
 site_dir: public
 site_author: ThrillerOne
 nav:
-  - 木鱼.md
-  - 番茄工作法.md
-  - 喝水的重要性.md
-  - 更新日志.md
+  - index.md
+  - pomodoro_intro.md
+  - drink_water.md
+  - release_note.md
 
 # Theme
 theme:
