@@ -4,7 +4,7 @@ site_dir: public
 site_author: ThrillerOne
 nav:
   - 木鱼.md
-  - 什么时番茄工作法.md
+  - 番茄工作法.md
   - 更新日志.md
 
 # Theme
