@@ -1,10 +1,11 @@
-site_name: BreakIt
+site_name: 木鱼
 site_url: https://breakit.thriller.fun
 site_dir: public
 site_author: ThrillerOne
 nav:
-  - index.md
-  - release_note.md
+  - 木鱼.md
+  - 什么时番茄工作法.md
+  - 更新日志.md
 
 # Theme
 theme:
