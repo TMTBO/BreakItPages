@@ -6,22 +6,30 @@
 
 "木鱼"应用内置了番茄工作法，这是一种被广泛认可的时间管理技巧。它将工作时间划分为短暂的工作周期，通常为25分钟，每个工作周期称为一个"番茄时间"。在每个番茄时间结束后，应用会提醒你休息5分钟，然后再开始下一个番茄时间。每4个番茄时间后，你可以休息长一些，约15-30分钟。这种有节奏的工作方式有助于提高专注力和生产力，减少工作中的焦虑感。
 
-![休息提醒](./assets/break_view.png)|![工作流设置](./assets/workflow_setting.png)|![喝水提醒设置](./assets/drink_setting.png)
--|-|-
+<div class="third">
+    <img src="./assets/break_view.png" alert="休息提醒" width="300" />
+    <img src="./assets/workflow_setting.png" alert="工作流设置" width="300" />
+    <img src="./assets/style_setting.png" alert="风格设置" width="300" />
+</div>
 
 ## 喝水提醒功能：保持身体健康
 
 另一个"木鱼"应用的独特之处在于它的喝水提示功能。不仅仅是一款时间管理工具，它还是一位贴心的健康伴侣。应用会定时提醒你喝水，以确保你保持良好的饮水习惯。你可以根据自己的需求和喜好自定义提醒频率和每次饮水的水量。此外，"木鱼"还提供了统计信息，让你了解自己的饮水表现，帮助你保持身体健康。
 
-![喝水提醒](./assets/drink_view.png.png)|![喝水提醒设置](./assets/drink_setting.png)
--|-
+<div class="half">
+    <img src="./assets/drink_view.png" alert="喝水提醒" width="300" />
+    <img src="./assets/drink_setting.png" alert="喝水提醒设置" width="300" />
+</div>
 
 ## 定制化设置
 
 "木鱼"应用非常注重用户的个性化设置。你可以根据自己的工作和生活需求，自定义番茄时间的时长、休息时间以及提醒频率。同时，你可以设置每天的饮水目标，应用将帮助你实现健康的饮水计划。这种高度的定制化使得"木鱼"适用于各种不同的用户和工作场景。
 
-![工作流设置](./assets/workflow_setting.png)-![风格设置](./assets/style_setting.png)|![喝水提醒设置](./assets/drink_setting.png)
--|-|-
+<div class="third">
+    <img src="./assets/workflow_setting.png" alert="工作流设置" width="300" />
+    <img src="./assets/style_setting.png" alert="风格设置" width="300" />
+    <img src="./assets/drink_setting.png" alert="喝水提醒设置" width="300" />
+</div>
 
 ## 管理时间与健康，一举两得
 
