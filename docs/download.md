@@ -6,7 +6,7 @@
 
 ### 文件下载
 
-点击[木鱼](https://breakit.thriller.fun/packages/Muyu.zip)开始下载应用程序安装文件.
+点击**[ 木鱼 ](https://breakit.thriller.fun/packages/Muyu.zip)**开始下载应用程序安装文件.
 
 请注意，下载可能需要一些时间，具体取决于您的互联网连接速度.
 
@@ -18,7 +18,7 @@
 
 ## 2. `AppStore`下载安装
 
-点击[AppStore](https://apps.apple.com/us/app/%E6%9C%A8%E9%B1%BC-%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C-%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/id6465346683?l=zh-Hans-CN&mt=12)进入下载页面
+点击**[ AppStore ](https://apps.apple.com/us/app/%E6%9C%A8%E9%B1%BC-%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C-%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/id6465346683?l=zh-Hans-CN&mt=12)**进入下载页面
 
 ----
 
