@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Muyu</title>
+        <item>
+            <title>1.4.3</title>
+            <pubDate>Thu, 12 Oct 2023 16:52:32 +0800</pubDate>
+            <link>https://breakit.thriller.fun</link>
+            <sparkle:fullReleaseNotesLink>https://breakit.thriller.fun/release_note/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://breakit.thriller.fun/packages/Muyu.v1.4.3_30.zip" length="3172748" type="application/octet-stream" sparkle:edSignature="zaiEOngiR94VVx4rHG4ypTVS/wNQ95Nh9rEG94N6JH1D3h0AbectW/C6GslqjF2yzLV8eILFzRElbW7hM8kECg=="/>
+        </item>
+    </channel>
+</rss>
