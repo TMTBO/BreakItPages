@@ -4,13 +4,13 @@
         <title>Muyu</title>
         <item>
             <title>1.5.0</title>
-            <pubDate>Fri, 15 Dec 2023 11:49:27 +0800</pubDate>
+            <pubDate>Fri, 15 Dec 2023 20:03:36 +0800</pubDate>
             <link>https://breakit.thriller.fun</link>
             <sparkle:fullReleaseNotesLink>https://breakit.thriller.fun/release_note/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>38</sparkle:version>
+            <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://breakit.thriller.fun/packages/Muyu.v1.5.0_38.zip" length="5661523" type="application/octet-stream" sparkle:edSignature="0AA5DfyBHriDwd5HOAjwCj4P8sirUXi2Ih5fyrh/rjZ6kjSxkKCL3oGGcI0NKmd6tYolYFg/NycIO2sBrt1KDg=="/>
+            <enclosure url="https://breakit.thriller.fun/packages/Muyu.v1.5.0_39.zip" length="5673465" type="application/octet-stream" sparkle:edSignature="mI/LGV+VB8ttcALRBvEAmzJXIg0fx0u8T3vXdYnaidtlCzysfaig8EVHgAHVC8pYxmnRL5EenByEQKO/hP7BCA=="/>
         </item>
     </channel>
 </rss>
