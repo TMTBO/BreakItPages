@@ -3,14 +3,29 @@
     <channel>
         <title>Muyu</title>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Fri, 29 Mar 2024 09:52:18 +0800</pubDate>
+            <link>https://xcodepilot.thriller.fun</link>
+            <sparkle:fullReleaseNotesLink>https://xcodepilot.thriller.fun/release_note/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://breakit.thriller.fun/packages/appcast/Muyu.v1.5.1_42.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://breakit.thriller.fun/packages/appcast/Muyu.v1.5.1_42.zip" length="5796877" type="application/octet-stream" sparkle:edSignature="u8irhkzYycJoWCjl4WJB4so7wRgICL2dLlrCNSFwUOay42EiPE280Y816Ety/hC+ctqKXHUIZKnLd4vR5GKSCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://breakit.thriller.fun/packages/appcast/Muyu42-41.delta" sparkle:deltaFrom="41" length="1089206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dNFH1ZNBtk7IG+r1ob162k6P43LSrFV2DNropsKp+EbfFRft0bPnWtxZ760Dqy8wFXm/qfhGW0mmWzRQrMBsBA=="/>
+                <enclosure url="https://breakit.thriller.fun/packages/appcast/Muyu42-40.delta" sparkle:deltaFrom="40" length="1125566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="WWygq/KdupdQeVyNgaTenKEB5JmtJ7E88aGFdO90+QTo2cQUwQmd98w5pQseXBeHdK59ea0RWj38XHTGpJPQAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Fri, 22 Dec 2023 15:42:27 +0800</pubDate>
             <link>https://breakit.thriller.fun</link>
             <sparkle:fullReleaseNotesLink>https://breakit.thriller.fun/release_note/</sparkle:fullReleaseNotesLink>
             <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://breakit.thriller.fun/packages/appcast/Muyu.v1.5.1_41.zip" length="5796874" type="application/octet-stream" sparkle:edSignature="RWNGWn/zJGin3MjwKqJdPG8IgkoXPIq9ovkjv2gkwhC1z9OvAMqDQcEAK8E/Ipw4OQMGlhzyQz+U1Pn4Cg1nAQ=="/>
+            <enclosure url="https://breakit.thriller.fun/packages/appcast/Muyu.v1.5.0_41.zip" length="5673528" type="application/octet-stream" sparkle:edSignature="QfTJjCV1YNl0ogWt3yDUlqk5CTH7hu2VLRHj4gQ+iyfbjGuPkd3itkQ4otQXzdZQXg8pQ84EdoGf1Kte2w+XDQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://breakit.thriller.fun/packages/appcast/Muyu41-40.delta" sparkle:deltaFrom="40" length="1125418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xE6wLhuok/qX0v0VU/0O1CCECoG/1qix9ygxNDL/SW6L9wmFwrebAlSXuE/Z3Z3TzQwQso9q3wkhPphdEcfMBw=="/>
             </sparkle:deltas>
